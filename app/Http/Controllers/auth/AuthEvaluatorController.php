@@ -22,7 +22,7 @@ class AuthEvaluatorController extends Controller
 	{
 		return view('evaluator.login');
 	}
-// pindah sementara
+// pindah sementaras
     // public function postloginEvaluator(Request $request)
 	// {
 
